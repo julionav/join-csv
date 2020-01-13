@@ -1,0 +1,9 @@
+src
+node_modules
+.vscode
+.idea
+lib
+bsconfig.json
+.melin
+.gitignore
+*.csv
